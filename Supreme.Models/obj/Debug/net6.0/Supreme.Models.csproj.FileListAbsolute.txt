@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\SupremeWeb\Supreme.Models\bin\Debug\net6.0\Supreme.Models.deps.json
+C:\Users\Dell\source\repos\SupremeWeb\Supreme.Models\bin\Debug\net6.0\Supreme.Models.dll
+C:\Users\Dell\source\repos\SupremeWeb\Supreme.Models\bin\Debug\net6.0\Supreme.Models.pdb
+C:\Users\Dell\source\repos\SupremeWeb\Supreme.Models\obj\Debug\net6.0\Supreme.Models.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\SupremeWeb\Supreme.Models\obj\Debug\net6.0\Supreme.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\SupremeWeb\Supreme.Models\obj\Debug\net6.0\Supreme.Models.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\SupremeWeb\Supreme.Models\obj\Debug\net6.0\Supreme.Models.AssemblyInfo.cs
+C:\Users\Dell\source\repos\SupremeWeb\Supreme.Models\obj\Debug\net6.0\Supreme.Models.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\SupremeWeb\Supreme.Models\obj\Debug\net6.0\Supreme.Models.dll
+C:\Users\Dell\source\repos\SupremeWeb\Supreme.Models\obj\Debug\net6.0\refint\Supreme.Models.dll
+C:\Users\Dell\source\repos\SupremeWeb\Supreme.Models\obj\Debug\net6.0\Supreme.Models.pdb
+C:\Users\Dell\source\repos\SupremeWeb\Supreme.Models\obj\Debug\net6.0\ref\Supreme.Models.dll

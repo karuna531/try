@@ -1,0 +1,5 @@
+C:\Users\Dell\source\repos\SupremeWeb\Supreme.DataAccess\obj\Debug\net6.0\Supreme.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\SupremeWeb\Supreme.DataAccess\obj\Debug\net6.0\Supreme.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\SupremeWeb\Supreme.DataAccess\obj\Debug\net6.0\Supreme.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\SupremeWeb\Supreme.DataAccess\obj\Debug\net6.0\Supreme.DataAccess.AssemblyInfo.cs
+C:\Users\Dell\source\repos\SupremeWeb\Supreme.DataAccess\obj\Debug\net6.0\Supreme.DataAccess.csproj.CoreCompileInputs.cache
